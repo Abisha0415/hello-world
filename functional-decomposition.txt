@@ -1,0 +1,13 @@
+# Functional Decomposition 
+
+## The spoon dropped into the gravy 
+
+Your spoon drops in to the gravy 
+    -Grab spoon 
+        -Put your hand in the gravy dish 
+        -Get spoon in your hands 
+    -Clean spoon
+        -Hold it vertically letting excess gravy drip back into the dish
+  -You get your spoon out of the gravy 
+        -Clean spoon 
+        -Replace dirty spoon with bigger, new spoon so it does not fall in the dish again 
